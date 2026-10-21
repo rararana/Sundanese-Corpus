@@ -1,0 +1,85 @@
+File,Speaker,Gender,Language/Dialect,Topic,Duration,Environment,Quality
+S05_T01_001.WAV,S05,F,Sunda,Perkenalan,6.97,outdoor,good
+S05_T01_002.WAV,S05,F,Sunda,Perkenalan,7.625,outdoor,good
+S05_T01_003.WAV,S05,F,Sunda,Perkenalan,6.7,outdoor,good
+S05_T01_004.WAV,S05,F,Sunda,Perkenalan,5.765,outdoor,good
+S05_T01_005.WAV,S05,F,Sunda,Perkenalan,7.195,outdoor,good
+S05_T01_006.WAV,S05,F,Sunda,Perkenalan,7.995,outdoor,good
+S05_T01_007.WAV,S05,F,Sunda,Perkenalan,5.92,outdoor,good
+S05_T01_008.WAV,S05,F,Sunda,Perkenalan,7.995,outdoor,good
+S05_T01_009.WAV,S05,F,Sunda,Perkenalan,4.22,outdoor,good
+S05_T01_010.WAV,S05,F,Sunda,Perkenalan,5.145,outdoor,good
+S05_T01_011.WAV,S05,F,Sunda,Perkenalan,7.2775,outdoor,good
+S05_T01_012.WAV,S05,F,Sunda,Perkenalan,7.0875,outdoor,good
+S05_T01_013.WAV,S05,F,Sunda,Perkenalan,7.13,outdoor,good
+S05_T01_014.WAV,S05,F,Sunda,Perkenalan,7.415,outdoor,good
+S05_T01_015.WAV,S05,F,Sunda,Perkenalan,6.71,outdoor,acceptable
+S05_T01_016.WAV,S05,F,Sunda,Perkenalan,4.8475,outdoor,good
+S05_T01_017.WAV,S05,F,Sunda,Perkenalan,7.035,outdoor,good
+S05_T02_018.WAV,S05,F,Sunda,Kegiatan Sehari Hari,3.4825,outdoor,good
+S05_T02_019.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.09,outdoor,good
+S05_T02_020.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.8075,outdoor,good
+S05_T02_021.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.6675,outdoor,good
+S05_T02_022.WAV,S05,F,Sunda,Kegiatan Sehari Hari,6.25,outdoor,good
+S05_T02_023.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.1125,outdoor,acceptable
+S05_T02_024.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.2175,outdoor,good
+S05_T02_025.WAV,S05,F,Sunda,Kegiatan Sehari Hari,5.8225,outdoor,good
+S05_T02_026.WAV,S05,F,Sunda,Kegiatan Sehari Hari,5.6375,outdoor,good
+S05_T02_027.WAV,S05,F,Sunda,Kegiatan Sehari Hari,5.7325,outdoor,good
+S05_T02_028.WAV,S05,F,Sunda,Kegiatan Sehari Hari,5.7425,outdoor,good
+S05_T02_029.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.895,outdoor,good
+S05_T02_030.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.6,outdoor,good
+S05_T02_031.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.3875,outdoor,good
+S05_T02_032.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.1275,outdoor,good
+S05_T02_033.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.08,outdoor,good
+S05_T02_034.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.085,outdoor,good
+S05_T02_035.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.165,outdoor,good
+S05_T02_036.WAV,S05,F,Sunda,Kegiatan Sehari Hari,6.97,outdoor,good
+S05_T02_037.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.7675,outdoor,good
+S05_T02_038.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.385,outdoor,good
+S05_T02_039.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.535,outdoor,good
+S05_T02_040.WAV,S05,F,Sunda,Kegiatan Sehari Hari,6.8525,outdoor,good
+S05_T02_041.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.985,outdoor,good
+S05_T02_042.WAV,S05,F,Sunda,Kegiatan Sehari Hari,7.995,outdoor,good
+S05_T02_043.WAV,S05,F,Sunda,Kegiatan Sehari Hari,8,outdoor,good
+S05_T04_044.WAV,S05,F,Sunda,Makanan,7.985,outdoor,good
+S05_T04_045.WAV,S05,F,Sunda,Makanan,8,outdoor,good
+S05_T04_046.WAV,S05,F,Sunda,Makanan,7.92,outdoor,good
+S05_T04_047.WAV,S05,F,Sunda,Makanan,6.28,outdoor,good
+S05_T04_048.WAV,S05,F,Sunda,Makanan,6.19,outdoor,good
+S05_T04_049.WAV,S05,F,Sunda,Makanan,7.8975,outdoor,good
+S05_T04_050.WAV,S05,F,Sunda,Makanan,7.3475,outdoor,good
+S05_T04_051.WAV,S05,F,Sunda,Makanan,7.425,outdoor,good
+S05_T04_052.WAV,S05,F,Sunda,Makanan,7.985,outdoor,good
+S05_T04_053.WAV,S05,F,Sunda,Makanan,7.365,outdoor,good
+S05_T04_054.WAV,S05,F,Sunda,Makanan,7.99,outdoor,good
+S05_T04_055.WAV,S05,F,Sunda,Makanan,7.9825,outdoor,good
+S05_T04_056.WAV,S05,F,Sunda,Makanan,7.905,outdoor,good
+S05_T04_057.WAV,S05,F,Sunda,Makanan,7.31,outdoor,good
+S05_T04_058.WAV,S05,F,Sunda,Makanan,7.8875,outdoor,good
+S05_T04_059.WAV,S05,F,Sunda,Makanan,7.065,outdoor,good
+S05_T04_060.WAV,S05,F,Sunda,Makanan,7.14,outdoor,good
+S05_T05_061.WAV,S05,F,Sunda,Pendidikan,5.86,outdoor,good
+S05_T05_062.WAV,S05,F,Sunda,Pendidikan,6.015,outdoor,good
+S05_T05_063.WAV,S05,F,Sunda,Pendidikan,7.555,outdoor,good
+S05_T05_064.WAV,S05,F,Sunda,Pendidikan,8,outdoor,good
+S05_T05_065.WAV,S05,F,Sunda,Pendidikan,2.49,outdoor,good
+S05_T05_066.WAV,S05,F,Sunda,Pendidikan,7.095,outdoor,good
+S05_T05_067.WAV,S05,F,Sunda,Pendidikan,7.31,outdoor,good
+S05_T05_068.WAV,S05,F,Sunda,Pendidikan,7.685,outdoor,good
+S05_T05_069.WAV,S05,F,Sunda,Pendidikan,6.69,outdoor,good
+S05_T05_070.WAV,S05,F,Sunda,Pendidikan,7.9875,outdoor,good
+S05_T05_071.WAV,S05,F,Sunda,Pendidikan,7.8525,outdoor,good
+S05_T05_072.WAV,S05,F,Sunda,Pendidikan,7.995,outdoor,good
+S05_T05_073.WAV,S05,F,Sunda,Pendidikan,6.99,outdoor,good
+S05_T05_074.WAV,S05,F,Sunda,Pendidikan,4.6275,outdoor,good
+S05_T05_075.WAV,S05,F,Sunda,Pendidikan,4.7475,outdoor,good
+S05_T05_076.WAV,S05,F,Sunda,Pendidikan,7.875,outdoor,good
+S05_T05_077.WAV,S05,F,Sunda,Pendidikan,3.545,outdoor,good
+S05_T05_078.WAV,S05,F,Sunda,Pendidikan,7.3925,outdoor,good
+S05_T06_079.WAV,S05,F,Sunda,Perjalanan,7.0075,outdoor,good
+S05_T06_080.WAV,S05,F,Sunda,Perjalanan,6.795,outdoor,good
+S05_T06_081.WAV,S05,F,Sunda,Perjalanan,7.0575,outdoor,good
+S05_T06_082.WAV,S05,F,Sunda,Perjalanan,7.3275,outdoor,good
+S05_T06_083.WAV,S05,F,Sunda,Perjalanan,5.885,outdoor,good
+S05_T06_084.WAV,S05,F,Sunda,Perjalanan,5.51,outdoor,good
