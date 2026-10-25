@@ -1,104 +1,104 @@
-﻿"File","Speaker","Gender","Language/Dialect","Topic","Duration","Environment","Quality"
-"S11_T01_0001.wav","S11","F","Sunda","Perkenalan","3.35","Indoor","Acceptable"
-"S11_T01_0002.wav","S11","F","Sunda","Perkenalan","4.925","Indoor","Acceptable"
-"S11_T01_0003.wav","S11","F","Sunda","Perkenalan","3.865","Indoor","Acceptable"
-"S11_T01_0004.wav","S11","F","Sunda","Perkenalan","4.88","Indoor","Acceptable"
-"S11_T01_0005.wav","S11","F","Sunda","Perkenalan","5.88","Indoor","Acceptable"
-"S11_T01_0006.wav","S11","F","Sunda","Perkenalan","5.995","Indoor","Acceptable"
-"S11_T01_0007.wav","S11","F","Sunda","Perkenalan","3.51","Indoor","Acceptable"
-"S11_T01_0008.wav","S11","F","Sunda","Perkenalan","6","Indoor","Acceptable"
-"S11_T01_0009.wav","S11","F","Sunda","Perkenalan","5.99","Indoor","Acceptable"
-"S11_T01_0010.wav","S11","F","Sunda","Perkenalan","4.64","Indoor","Acceptable"
-"S11_T01_0011.wav","S11","F","Sunda","Perkenalan","3.54","Indoor","Acceptable"
-"S11_T01_0012.wav","S11","F","Sunda","Perkenalan","4.045","Indoor","Acceptable"
-"S11_T01_0013.wav","S11","F","Sunda","Perkenalan","5.99","Indoor","Acceptable"
-"S11_T01_0014.wav","S11","F","Sunda","Perkenalan","5.255","Indoor","Acceptable"
-"S11_T01_0015.wav","S11","F","Sunda","Perkenalan","4.88","Indoor","Acceptable"
-"S11_T01_0016.wav","S11","F","Sunda","Perkenalan","5.255","Indoor","Acceptable"
-"S11_T01_0017.wav","S11","F","Sunda","Perkenalan","4.6","Indoor","Acceptable"
-"S11_T01_0018.wav","S11","F","Sunda","Perkenalan","4.245","Indoor","Acceptable"
-"S11_T01_0019.wav","S11","F","Sunda","Perkenalan","5.7705","Indoor","Acceptable"
-"S11_T02_0020.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0021.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0022.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0023.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0024.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.94","Indoor","Reject"
-"S11_T02_0025.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.88","Indoor","Reject"
-"S11_T02_0026.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.84","Indoor","Reject"
-"S11_T02_0027.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.78","Indoor","Reject"
-"S11_T02_0028.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.76","Indoor","Reject"
-"S11_T02_0029.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.74","Indoor","Reject"
-"S11_T02_0030.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.74","Indoor","Reject"
-"S11_T02_0031.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.74","Indoor","Reject"
-"S11_T02_0032.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.76","Indoor","Reject"
-"S11_T02_0033.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.78","Indoor","Reject"
-"S11_T02_0034.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.84","Indoor","Reject"
-"S11_T02_0035.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.88","Indoor","Reject"
-"S11_T02_0036.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.94","Indoor","Reject"
-"S11_T02_0037.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0038.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0039.wav","S11","F","Sunda","Aktivitas Sehari-hari","6","Indoor","Reject"
-"S11_T02_0040.wav","S11","F","Sunda","Aktivitas Sehari-hari","5.9848","Indoor","Reject"
-"S11_T03_0041.wav","S11","F","Sunda","Keluarga","3.225","Indoor","Good"
-"S11_T03_0042.wav","S11","F","Sunda","Keluarga","4.1","Indoor","Good"
-"S11_T03_0043.wav","S11","F","Sunda","Keluarga","4.955","Indoor","Good"
-"S11_T03_0044.wav","S11","F","Sunda","Keluarga","5.52","Indoor","Good"
-"S11_T03_0045.wav","S11","F","Sunda","Keluarga","4.925","Indoor","Good"
-"S11_T03_0046.wav","S11","F","Sunda","Keluarga","5.015","Indoor","Good"
-"S11_T03_0047.wav","S11","F","Sunda","Keluarga","3.895","Indoor","Good"
-"S11_T03_0048.wav","S11","F","Sunda","Keluarga","4.195","Indoor","Good"
-"S11_T03_0049.wav","S11","F","Sunda","Keluarga","5.985","Indoor","Good"
-"S11_T03_0050.wav","S11","F","Sunda","Keluarga","5.365","Indoor","Good"
-"S11_T03_0051.wav","S11","F","Sunda","Keluarga","6","Indoor","Good"
-"S11_T03_0052.wav","S11","F","Sunda","Keluarga","5.66","Indoor","Good"
-"S11_T03_0053.wav","S11","F","Sunda","Keluarga","5.99","Indoor","Good"
-"S11_T03_0054.wav","S11","F","Sunda","Keluarga","5.99","Indoor","Good"
-"S11_T03_0055.wav","S11","F","Sunda","Keluarga","6","Indoor","Good"
-"S11_T03_0056.wav","S11","F","Sunda","Keluarga","4.935","Indoor","Good"
-"S11_T03_0057.wav","S11","F","Sunda","Keluarga","3.85","Indoor","Good"
-"S11_T03_0058.wav","S11","F","Sunda","Keluarga","5.1475","Indoor","Good"
-"S11_T03_0059.wav","S11","F","Sunda","Keluarga","5.3875","Indoor","Good"
-"S11_T03_0060.wav","S11","F","Sunda","Keluarga","3.8225","Indoor","Good"
-"S11_T03_0061.wav","S11","F","Sunda","Keluarga","5.7675","Indoor","Good"
-"S11_T03_0062.wav","S11","F","Sunda","Keluarga","5.3775","Indoor","Good"
-"S11_T03_0063.wav","S11","F","Sunda","Keluarga","5.4525","Indoor","Good"
-"S11_T03_0064.wav","S11","F","Sunda","Keluarga","5.9975","Indoor","Good"
-"S11_T03_0065.wav","S11","F","Sunda","Keluarga","5.8675","Indoor","Good"
-"S11_T03_0066.wav","S11","F","Sunda","Keluarga","5.985","Indoor","Good"
-"S11_T03_0067.wav","S11","F","Sunda","Keluarga","5.425","Indoor","Good"
-"S11_T03_0068.wav","S11","F","Sunda","Keluarga","5.995","Indoor","Good"
-"S11_T03_0069.wav","S11","F","Sunda","Keluarga","3.4179","Indoor","Good"
-"S11_T04_0070.wav","S11","F","Sunda","Makanan","5.995","Indoor","Good"
-"S11_T04_0071.wav","S11","F","Sunda","Makanan","5.3675","Indoor","Good"
-"S11_T04_0072.wav","S11","F","Sunda","Makanan","5.5125","Indoor","Good"
-"S11_T04_0073.wav","S11","F","Sunda","Makanan","4.56","Indoor","Good"
-"S11_T04_0074.wav","S11","F","Sunda","Makanan","5.77","Indoor","Good"
-"S11_T04_0075.wav","S11","F","Sunda","Makanan","6","Indoor","Good"
-"S11_T04_0076.wav","S11","F","Sunda","Makanan","5.99","Indoor","Good"
-"S11_T04_0077.wav","S11","F","Sunda","Makanan","5.5275","Indoor","Good"
-"S11_T04_0078.wav","S11","F","Sunda","Makanan","5.9975","Indoor","Good"
-"S11_T04_0079.wav","S11","F","Sunda","Makanan","5.0975","Indoor","Good"
-"S11_T04_0080.wav","S11","F","Sunda","Makanan","5.0575","Indoor","Good"
-"S11_T04_0081.wav","S11","F","Sunda","Makanan","4.285","Indoor","Good"
-"S11_T05_0082.wav","S11","F","Sunda","Pendidikan","5.5175","Indoor","Good"
-"S11_T05_0083.wav","S11","F","Sunda","Pendidikan","5.47","Indoor","Good"
-"S11_T05_0084.wav","S11","F","Sunda","Pendidikan","5.99","Indoor","Good"
-"S11_T05_0085.wav","S11","F","Sunda","Pendidikan","4.22","Indoor","Good"
-"S11_T05_0086.wav","S11","F","Sunda","Pendidikan","5.985","Indoor","Good"
-"S11_T05_0087.wav","S11","F","Sunda","Pendidikan","4.3","Indoor","Good"
-"S11_T05_0088.wav","S11","F","Sunda","Pendidikan","5.435","Indoor","Good"
-"S11_T05_0089.wav","S11","F","Sunda","Pendidikan","5.015","Indoor","Good"
-"S11_T05_0090.wav","S11","F","Sunda","Pendidikan","6","Indoor","Good"
-"S11_T05_0091.wav","S11","F","Sunda","Pendidikan","5.6525","Indoor","Good"
-"S11_T05_0092.wav","S11","F","Sunda","Pendidikan","5.9975","Indoor","Good"
-"S11_T06_0093.wav","S11","F","Sunda","Budaya","4.82","Indoor","Good"
-"S11_T06_0094.wav","S11","F","Sunda","Budaya","5.6","Indoor","Good"
-"S11_T06_0095.wav","S11","F","Sunda","Budaya","5.04","Indoor","Good"
-"S11_T06_0096.wav","S11","F","Sunda","Budaya","4.445","Indoor","Good"
-"S11_T06_0097.wav","S11","F","Sunda","Budaya","5.995","Indoor","Good"
-"S11_T06_0098.wav","S11","F","Sunda","Budaya","5.51","Indoor","Good"
-"S11_T06_0099.wav","S11","F","Sunda","Budaya","4.445","Indoor","Good"
-"S11_T06_0100.wav","S11","F","Sunda","Budaya","5.985","Indoor","Good"
-"S11_T06_0101.wav","S11","F","Sunda","Budaya","4.5475","Indoor","Good"
-"S11_T06_0102.wav","S11","F","Sunda","Budaya","4.5525","Indoor","Good"
-"S11_T06_0103.wav","S11","F","Sunda","Budaya","5.6667","Indoor","Good"
+﻿File,Speaker,Gender,Language/Dialect,Topic,Duration,Environment,Quality
+S11_T01_0001.wav,S11,F,Sunda,Perkenalan,3.35,Indoor,Acceptable
+S11_T01_0002.wav,S11,F,Sunda,Perkenalan,4.925,Indoor,Acceptable
+S11_T01_0003.wav,S11,F,Sunda,Perkenalan,3.865,Indoor,Acceptable
+S11_T01_0004.wav,S11,F,Sunda,Perkenalan,4.88,Indoor,Acceptable
+S11_T01_0005.wav,S11,F,Sunda,Perkenalan,5.88,Indoor,Acceptable
+S11_T01_0006.wav,S11,F,Sunda,Perkenalan,5.995,Indoor,Acceptable
+S11_T01_0007.wav,S11,F,Sunda,Perkenalan,3.51,Indoor,Acceptable
+S11_T01_0008.wav,S11,F,Sunda,Perkenalan,6,Indoor,Acceptable
+S11_T01_0009.wav,S11,F,Sunda,Perkenalan,5.99,Indoor,Acceptable
+S11_T01_0010.wav,S11,F,Sunda,Perkenalan,4.64,Indoor,Acceptable
+S11_T01_0011.wav,S11,F,Sunda,Perkenalan,3.54,Indoor,Acceptable
+S11_T01_0012.wav,S11,F,Sunda,Perkenalan,4.045,Indoor,Acceptable
+S11_T01_0013.wav,S11,F,Sunda,Perkenalan,5.99,Indoor,Acceptable
+S11_T01_0014.wav,S11,F,Sunda,Perkenalan,5.255,Indoor,Acceptable
+S11_T01_0015.wav,S11,F,Sunda,Perkenalan,4.88,Indoor,Acceptable
+S11_T01_0016.wav,S11,F,Sunda,Perkenalan,5.255,Indoor,Acceptable
+S11_T01_0017.wav,S11,F,Sunda,Perkenalan,4.6,Indoor,Acceptable
+S11_T01_0018.wav,S11,F,Sunda,Perkenalan,4.245,Indoor,Acceptable
+S11_T01_0019.wav,S11,F,Sunda,Perkenalan,5.7705,Indoor,Acceptable
+S11_T02_0020.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0021.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0022.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0023.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0024.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.94,Indoor,Reject
+S11_T02_0025.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.88,Indoor,Reject
+S11_T02_0026.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.84,Indoor,Reject
+S11_T02_0027.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.78,Indoor,Reject
+S11_T02_0028.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.76,Indoor,Reject
+S11_T02_0029.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.74,Indoor,Reject
+S11_T02_0030.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.74,Indoor,Reject
+S11_T02_0031.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.74,Indoor,Reject
+S11_T02_0032.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.76,Indoor,Reject
+S11_T02_0033.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.78,Indoor,Reject
+S11_T02_0034.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.84,Indoor,Reject
+S11_T02_0035.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.88,Indoor,Reject
+S11_T02_0036.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.94,Indoor,Reject
+S11_T02_0037.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0038.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0039.wav,S11,F,Sunda,Aktivitas Sehari-hari,6,Indoor,Reject
+S11_T02_0040.wav,S11,F,Sunda,Aktivitas Sehari-hari,5.9848,Indoor,Reject
+S11_T03_0041.wav,S11,F,Sunda,Keluarga,3.225,Indoor,Good
+S11_T03_0042.wav,S11,F,Sunda,Keluarga,4.1,Indoor,Good
+S11_T03_0043.wav,S11,F,Sunda,Keluarga,4.955,Indoor,Good
+S11_T03_0044.wav,S11,F,Sunda,Keluarga,5.52,Indoor,Good
+S11_T03_0045.wav,S11,F,Sunda,Keluarga,4.925,Indoor,Good
+S11_T03_0046.wav,S11,F,Sunda,Keluarga,5.015,Indoor,Good
+S11_T03_0047.wav,S11,F,Sunda,Keluarga,3.895,Indoor,Good
+S11_T03_0048.wav,S11,F,Sunda,Keluarga,4.195,Indoor,Good
+S11_T03_0049.wav,S11,F,Sunda,Keluarga,5.985,Indoor,Good
+S11_T03_0050.wav,S11,F,Sunda,Keluarga,5.365,Indoor,Good
+S11_T03_0051.wav,S11,F,Sunda,Keluarga,6,Indoor,Good
+S11_T03_0052.wav,S11,F,Sunda,Keluarga,5.66,Indoor,Good
+S11_T03_0053.wav,S11,F,Sunda,Keluarga,5.99,Indoor,Good
+S11_T03_0054.wav,S11,F,Sunda,Keluarga,5.99,Indoor,Good
+S11_T03_0055.wav,S11,F,Sunda,Keluarga,6,Indoor,Good
+S11_T03_0056.wav,S11,F,Sunda,Keluarga,4.935,Indoor,Good
+S11_T03_0057.wav,S11,F,Sunda,Keluarga,3.85,Indoor,Good
+S11_T03_0058.wav,S11,F,Sunda,Keluarga,5.1475,Indoor,Good
+S11_T03_0059.wav,S11,F,Sunda,Keluarga,5.3875,Indoor,Good
+S11_T03_0060.wav,S11,F,Sunda,Keluarga,3.8225,Indoor,Good
+S11_T03_0061.wav,S11,F,Sunda,Keluarga,5.7675,Indoor,Good
+S11_T03_0062.wav,S11,F,Sunda,Keluarga,5.3775,Indoor,Good
+S11_T03_0063.wav,S11,F,Sunda,Keluarga,5.4525,Indoor,Good
+S11_T03_0064.wav,S11,F,Sunda,Keluarga,5.9975,Indoor,Good
+S11_T03_0065.wav,S11,F,Sunda,Keluarga,5.8675,Indoor,Good
+S11_T03_0066.wav,S11,F,Sunda,Keluarga,5.985,Indoor,Good
+S11_T03_0067.wav,S11,F,Sunda,Keluarga,5.425,Indoor,Good
+S11_T03_0068.wav,S11,F,Sunda,Keluarga,5.995,Indoor,Good
+S11_T03_0069.wav,S11,F,Sunda,Keluarga,3.4179,Indoor,Good
+S11_T04_0070.wav,S11,F,Sunda,Makanan,5.995,Indoor,Good
+S11_T04_0071.wav,S11,F,Sunda,Makanan,5.3675,Indoor,Good
+S11_T04_0072.wav,S11,F,Sunda,Makanan,5.5125,Indoor,Good
+S11_T04_0073.wav,S11,F,Sunda,Makanan,4.56,Indoor,Good
+S11_T04_0074.wav,S11,F,Sunda,Makanan,5.77,Indoor,Good
+S11_T04_0075.wav,S11,F,Sunda,Makanan,6,Indoor,Good
+S11_T04_0076.wav,S11,F,Sunda,Makanan,5.99,Indoor,Good
+S11_T04_0077.wav,S11,F,Sunda,Makanan,5.5275,Indoor,Good
+S11_T04_0078.wav,S11,F,Sunda,Makanan,5.9975,Indoor,Good
+S11_T04_0079.wav,S11,F,Sunda,Makanan,5.0975,Indoor,Good
+S11_T04_0080.wav,S11,F,Sunda,Makanan,5.0575,Indoor,Good
+S11_T04_0081.wav,S11,F,Sunda,Makanan,4.285,Indoor,Good
+S11_T05_0082.wav,S11,F,Sunda,Pendidikan,5.5175,Indoor,Good
+S11_T05_0083.wav,S11,F,Sunda,Pendidikan,5.47,Indoor,Good
+S11_T05_0084.wav,S11,F,Sunda,Pendidikan,5.99,Indoor,Good
+S11_T05_0085.wav,S11,F,Sunda,Pendidikan,4.22,Indoor,Good
+S11_T05_0086.wav,S11,F,Sunda,Pendidikan,5.985,Indoor,Good
+S11_T05_0087.wav,S11,F,Sunda,Pendidikan,4.3,Indoor,Good
+S11_T05_0088.wav,S11,F,Sunda,Pendidikan,5.435,Indoor,Good
+S11_T05_0089.wav,S11,F,Sunda,Pendidikan,5.015,Indoor,Good
+S11_T05_0090.wav,S11,F,Sunda,Pendidikan,6,Indoor,Good
+S11_T05_0091.wav,S11,F,Sunda,Pendidikan,5.6525,Indoor,Good
+S11_T05_0092.wav,S11,F,Sunda,Pendidikan,5.9975,Indoor,Good
+S11_T06_0093.wav,S11,F,Sunda,Budaya,4.82,Indoor,Good
+S11_T06_0094.wav,S11,F,Sunda,Budaya,5.6,Indoor,Good
+S11_T06_0095.wav,S11,F,Sunda,Budaya,5.04,Indoor,Good
+S11_T06_0096.wav,S11,F,Sunda,Budaya,4.445,Indoor,Good
+S11_T06_0097.wav,S11,F,Sunda,Budaya,5.995,Indoor,Good
+S11_T06_0098.wav,S11,F,Sunda,Budaya,5.51,Indoor,Good
+S11_T06_0099.wav,S11,F,Sunda,Budaya,4.445,Indoor,Good
+S11_T06_0100.wav,S11,F,Sunda,Budaya,5.985,Indoor,Good
+S11_T06_0101.wav,S11,F,Sunda,Budaya,4.5475,Indoor,Good
+S11_T06_0102.wav,S11,F,Sunda,Budaya,4.5525,Indoor,Good
+S11_T06_0103.wav,S11,F,Sunda,Budaya,5.6667,Indoor,Good
